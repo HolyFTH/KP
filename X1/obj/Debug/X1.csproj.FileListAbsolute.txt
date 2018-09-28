@@ -1,0 +1,17 @@
+C:\Users\suppo\source\repos\X1\X1\bin\Debug\X1.exe.config
+C:\Users\suppo\source\repos\X1\X1\bin\Debug\X1.exe
+C:\Users\suppo\source\repos\X1\X1\bin\Debug\X1.pdb
+C:\Users\suppo\source\repos\X1\X1\obj\Debug\X1.csprojAssemblyReference.cache
+C:\Users\suppo\source\repos\X1\X1\obj\Debug\X1.Auth.resources
+C:\Users\suppo\source\repos\X1\X1\obj\Debug\X1.Form1.resources
+C:\Users\suppo\source\repos\X1\X1\obj\Debug\X1.Properties.Resources.resources
+C:\Users\suppo\source\repos\X1\X1\obj\Debug\X1.csproj.GenerateResource.cache
+C:\Users\suppo\source\repos\X1\X1\obj\Debug\X1.csproj.CoreCompileInputs.cache
+C:\Users\suppo\source\repos\X1\X1\obj\Debug\X1.exe
+C:\Users\suppo\source\repos\X1\X1\obj\Debug\X1.pdb
+C:\Users\suppo\source\repos\X1\X1\obj\Debug\X1.Registr.resources
+C:\Users\suppo\source\repos\X1\X1\obj\Debug\X1.Dobav_Tov.resources
+C:\Users\suppo\source\repos\X1\X1\bin\Debug\itextsharp.dll
+C:\Users\suppo\source\repos\X1\X1\bin\Debug\itextsharp.xml
+C:\Users\suppo\source\repos\X1\X1\obj\Debug\X1.Form_Doc.resources
+C:\Users\suppo\source\repos\X1\X1\obj\Debug\X1.csproj.CopyComplete
